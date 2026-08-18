@@ -47,5 +47,4 @@ indian-express-scraper/
 
 ## Author
 **Girish Kumar**  
-B.Tech Computer Science, D.Y. Patil Pratishthan's College of Engineering
 
